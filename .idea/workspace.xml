@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1176d815-5028-4dc8-8191-869ee8694b2f" name="Changes" comment="" />
+    <list default="true" id="1176d815-5028-4dc8-8191-869ee8694b2f" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +52,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1749438204455</updated>
-      <workItem from="1749438207384" duration="1043000" />
+      <workItem from="1749438207384" duration="1509000" />
     </task>
     <task id="LOCAL-00001" summary="creacion_de_figuras.cs">
       <option name="closed" value="true" />
