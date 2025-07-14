@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\AgendaTurnosApp.csproj": {}
+    "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\BalanceParentesis\\BalanceParentesis.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\AgendaTurnosApp.csproj": {
+    "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\BalanceParentesis\\BalanceParentesis.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\AgendaTurnosApp.csproj",
-        "projectName": "AgendaTurnosApp",
-        "projectPath": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\AgendaTurnosApp.csproj",
+        "projectUniqueName": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\BalanceParentesis\\BalanceParentesis.csproj",
+        "projectName": "BalanceParentesis",
+        "projectPath": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\BalanceParentesis\\BalanceParentesis.csproj",
         "packagesPath": "C:\\Users\\Neila\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\obj\\",
+        "outputPath": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\BalanceParentesis\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Neila\\AppData\\Roaming\\NuGet\\NuGet.Config"

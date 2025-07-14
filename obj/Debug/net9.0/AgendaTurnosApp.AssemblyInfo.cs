@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AgendaTurnosApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9e3ac46a5e11ae4a7c22b2c7215546c42b13c3f8")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+864e782c8101e6a909831bb35a040b530463844b")]
 [assembly: System.Reflection.AssemblyProductAttribute("AgendaTurnosApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AgendaTurnosApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
