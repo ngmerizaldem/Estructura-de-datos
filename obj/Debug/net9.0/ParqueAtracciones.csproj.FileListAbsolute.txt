@@ -1,0 +1,15 @@
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\bin\Debug\net9.0\ParqueAtracciones.exe
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\bin\Debug\net9.0\ParqueAtracciones.deps.json
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\bin\Debug\net9.0\ParqueAtracciones.runtimeconfig.json
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\bin\Debug\net9.0\ParqueAtracciones.dll
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\bin\Debug\net9.0\ParqueAtracciones.pdb
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.AssemblyInfoInputs.cache
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.AssemblyInfo.cs
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.csproj.CoreCompileInputs.cache
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.sourcelink.json
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.dll
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\obj\Debug\net9.0\refint\ParqueAtracciones.dll
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.pdb
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\obj\Debug\net9.0\ParqueAtracciones.genruntimeconfig.cache
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\ParqueAtracciones\obj\Debug\net9.0\ref\ParqueAtracciones.dll
