@@ -1,0 +1,14 @@
+C:\Users\Neila\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.exe
+C:\Users\Neila\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.deps.json
+C:\Users\Neila\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.runtimeconfig.json
+C:\Users\Neila\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.dll
+C:\Users\Neila\VacunacionCovid\bin\Debug\net9.0\VacunacionCovid.pdb
+C:\Users\Neila\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neila\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.AssemblyInfoInputs.cache
+C:\Users\Neila\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.AssemblyInfo.cs
+C:\Users\Neila\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.csproj.CoreCompileInputs.cache
+C:\Users\Neila\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.dll
+C:\Users\Neila\VacunacionCovid\obj\Debug\net9.0\refint\VacunacionCovid.dll
+C:\Users\Neila\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.pdb
+C:\Users\Neila\VacunacionCovid\obj\Debug\net9.0\VacunacionCovid.genruntimeconfig.cache
+C:\Users\Neila\VacunacionCovid\obj\Debug\net9.0\ref\VacunacionCovid.dll
