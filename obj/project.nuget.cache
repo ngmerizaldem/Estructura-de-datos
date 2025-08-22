@@ -1,8 +1,26 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "/afT3sJ2/5M=",
   "success": true,
   "projectFilePath": "C:\\Users\\Neila\\VacunacionCovid\\VacunacionCovid.csproj",
   "expectedPackageFiles": [],
   "logs": []
+=======
+  "dgSpecHash": "xN4s6imqF1Y=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\AgendaTurnosApp.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "message": "Problem reading the cache file C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0.",
+      "projectPath": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\AgendaTurnosApp.csproj",
+      "warningLevel": 1,
+      "filePath": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\AgendaTurnosApp.csproj",
+      "targetGraphs": []
+    }
+  ]
+>>>>>>> 415698ccc98e62557c1ed96e70ff74edeff6cbb8
 }

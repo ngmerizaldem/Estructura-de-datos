@@ -1,0 +1,15 @@
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\bin\Debug\net9.0\AgendaTurnosApp.exe
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\bin\Debug\net9.0\AgendaTurnosApp.deps.json
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\bin\Debug\net9.0\AgendaTurnosApp.runtimeconfig.json
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\bin\Debug\net9.0\AgendaTurnosApp.dll
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\bin\Debug\net9.0\AgendaTurnosApp.pdb
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\obj\Debug\net9.0\AgendaTurnosApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\obj\Debug\net9.0\AgendaTurnosApp.AssemblyInfoInputs.cache
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\obj\Debug\net9.0\AgendaTurnosApp.AssemblyInfo.cs
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\obj\Debug\net9.0\AgendaTurnosApp.csproj.CoreCompileInputs.cache
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\obj\Debug\net9.0\AgendaTurnosApp.sourcelink.json
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\obj\Debug\net9.0\AgendaTurnosApp.dll
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\obj\Debug\net9.0\refint\AgendaTurnosApp.dll
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\obj\Debug\net9.0\AgendaTurnosApp.pdb
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\obj\Debug\net9.0\AgendaTurnosApp.genruntimeconfig.cache
+C:\Users\Neila\OneDrive\Escritorio\flask-login\RegistroEstudiante\AgendaTurnosApp\obj\Debug\net9.0\ref\AgendaTurnosApp.dll

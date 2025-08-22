@@ -13,19 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-<<<<<<< HEAD
-      "projectUniqueName": "C:\\Users\\Neila\\VacunacionCovid\\VacunacionCovid.csproj",
-      "projectName": "VacunacionCovid",
-      "projectPath": "C:\\Users\\Neila\\VacunacionCovid\\VacunacionCovid.csproj",
+      "projectUniqueName": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\BalanceParentesis\\BalanceParentesis.csproj",
+      "projectName": "BalanceParentesis",
+      "projectPath": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\BalanceParentesis\\BalanceParentesis.csproj",
       "packagesPath": "C:\\Users\\Neila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Neila\\VacunacionCovid\\obj\\",
-=======
-      "projectUniqueName": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\AgendaTurnosApp.csproj",
-      "projectName": "AgendaTurnosApp",
-      "projectPath": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\AgendaTurnosApp.csproj",
-      "packagesPath": "C:\\Users\\Neila\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\obj\\",
->>>>>>> 415698ccc98e62557c1ed96e70ff74edeff6cbb8
+      "outputPath": "C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\BalanceParentesis\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Neila\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -73,23 +65,8 @@
             "privateAssets": "all"
           }
         },
-<<<<<<< HEAD
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.304/PortableRuntimeIdentifierGraph.json"
-      }
-    }
-  }
-=======
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
       }
     }
-  },
-  "logs": [
-    {
-      "code": "Undefined",
-      "level": "Warning",
-      "warningLevel": 1,
-      "message": "Problem reading the cache file C:\\Users\\Neila\\OneDrive\\Escritorio\\flask-login\\RegistroEstudiante\\AgendaTurnosApp\\obj\\project.nuget.cache : '<' is an invalid start of a property name. Expected a '\"'. Path: $ | LineNumber: 2 | BytePositionInLine: 0."
-    }
-  ]
->>>>>>> 415698ccc98e62557c1ed96e70ff74edeff6cbb8
+  }
 }
