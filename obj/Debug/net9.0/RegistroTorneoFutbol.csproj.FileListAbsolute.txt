@@ -1,0 +1,14 @@
+C:\Users\Neila\RegistroTorneoFutbol\bin\Debug\net9.0\RegistroTorneoFutbol.exe
+C:\Users\Neila\RegistroTorneoFutbol\bin\Debug\net9.0\RegistroTorneoFutbol.deps.json
+C:\Users\Neila\RegistroTorneoFutbol\bin\Debug\net9.0\RegistroTorneoFutbol.runtimeconfig.json
+C:\Users\Neila\RegistroTorneoFutbol\bin\Debug\net9.0\RegistroTorneoFutbol.dll
+C:\Users\Neila\RegistroTorneoFutbol\bin\Debug\net9.0\RegistroTorneoFutbol.pdb
+C:\Users\Neila\RegistroTorneoFutbol\obj\Debug\net9.0\RegistroTorneoFutbol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neila\RegistroTorneoFutbol\obj\Debug\net9.0\RegistroTorneoFutbol.AssemblyInfoInputs.cache
+C:\Users\Neila\RegistroTorneoFutbol\obj\Debug\net9.0\RegistroTorneoFutbol.AssemblyInfo.cs
+C:\Users\Neila\RegistroTorneoFutbol\obj\Debug\net9.0\RegistroTorneoFutbol.csproj.CoreCompileInputs.cache
+C:\Users\Neila\RegistroTorneoFutbol\obj\Debug\net9.0\RegistroTorneoFutbol.dll
+C:\Users\Neila\RegistroTorneoFutbol\obj\Debug\net9.0\refint\RegistroTorneoFutbol.dll
+C:\Users\Neila\RegistroTorneoFutbol\obj\Debug\net9.0\RegistroTorneoFutbol.pdb
+C:\Users\Neila\RegistroTorneoFutbol\obj\Debug\net9.0\RegistroTorneoFutbol.genruntimeconfig.cache
+C:\Users\Neila\RegistroTorneoFutbol\obj\Debug\net9.0\ref\RegistroTorneoFutbol.dll
