@@ -1,0 +1,14 @@
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\bin\Debug\net9.0\CatalogoRevistasV2.exe
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\bin\Debug\net9.0\CatalogoRevistasV2.deps.json
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\bin\Debug\net9.0\CatalogoRevistasV2.runtimeconfig.json
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\bin\Debug\net9.0\CatalogoRevistasV2.dll
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\bin\Debug\net9.0\CatalogoRevistasV2.pdb
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\obj\Debug\net9.0\CatalogoRevistasV2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\obj\Debug\net9.0\CatalogoRevistasV2.AssemblyInfoInputs.cache
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\obj\Debug\net9.0\CatalogoRevistasV2.AssemblyInfo.cs
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\obj\Debug\net9.0\CatalogoRevistasV2.csproj.CoreCompileInputs.cache
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\obj\Debug\net9.0\CatalogoRevistasV2.dll
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\obj\Debug\net9.0\refint\CatalogoRevistasV2.dll
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\obj\Debug\net9.0\CatalogoRevistasV2.pdb
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\obj\Debug\net9.0\CatalogoRevistasV2.genruntimeconfig.cache
+C:\Users\Neila\CatalogoRevistas\CatalogoRevistasV2\obj\Debug\net9.0\ref\CatalogoRevistasV2.dll
